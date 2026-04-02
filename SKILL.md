@@ -352,6 +352,7 @@ for endpoint in endpoints:
 - ✅ 批量替换敏感人名"史周平"为"张三"（共 14 处）
 - ✅ 更新 badges 为现代 flat-square 样式
 - ✅ 设置仓库为公开可见
+- ✅ 更新联系方式：问题反馈由 GitHub Issues 更改为 441457345@qq.com
 
 ### 2024-04-02
 - ✅ 完成 Everything HTTP Server 配置

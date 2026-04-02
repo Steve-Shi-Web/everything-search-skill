@@ -212,7 +212,7 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 
 ## 📧 联系方式
 
-- 问题反馈：GitHub Issues
+- 问题反馈：441457345@qq.com
 - 技能来源：nanobot @ DeskClaw
 
 ## 🙏 致谢
