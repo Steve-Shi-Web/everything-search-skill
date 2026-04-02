@@ -98,7 +98,7 @@ search_photos(person_name: str, formats: List[str] = None) -> SearchResult
 ```
 
 **Parameters:**
-- `person_name` (str): Person's name (e.g., "史周平")
+- `person_name` (str): Person's name (e.g., "张三")
 - `formats` (List[str], optional): Image formats (default: ["jpg", "png"])
 
 **Returns:**
@@ -106,7 +106,7 @@ search_photos(person_name: str, formats: List[str] = None) -> SearchResult
 
 **Example:**
 ```python
-results = search.search_photos("史周平")
+results = search.search_photos("张三")
 print(f"Found {results.total} photos")
 ```
 
@@ -422,7 +422,7 @@ from src.everything_search import EverythingSearch
 search = EverythingSearch()
 
 # Search for photos
-results = search.search_photos("史周平")
+results = search.search_photos("张三")
 
 print(f"Found {results.total} photos")
 

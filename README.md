@@ -56,7 +56,7 @@ python scripts/check-config.py
 python examples/search_files.py "数据资产"
 
 # 搜索图片
-python examples/search_photos.py "史周平"
+python examples/search_photos.py "张三"
 
 # 高级搜索
 python examples/advanced_search.py --type jpg --size ">1mb" "照片"
@@ -116,7 +116,7 @@ for item in results.items[:10]:
 
 ```python
 # 搜索 JPG 图片
-results = search.search("史周平", file_type="jpg")
+results = search.search("张三", file_type="jpg")
 
 # 搜索 PDF 文档
 results = search.search("报告", file_type="pdf")
@@ -222,5 +222,5 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 
 ---
 
-**最后更新：** 2024-04-02  
+**最后更新：** 2026-04-02  
 **版本：** 1.0.0

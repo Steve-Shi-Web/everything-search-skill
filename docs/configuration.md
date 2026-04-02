@@ -162,7 +162,7 @@ After successful configuration:
 
 1. ✅ Run diagnostic: `python scripts/diagnose.py`
 2. ✅ Try basic search: `python examples/basic_search.py "数据资产"`
-3. ✅ Search photos: `python examples/search_photos.py "史周平"`
+3. ✅ Search photos: `python examples/search_photos.py "张三"`
 4. ✅ Explore advanced features: `python examples/advanced_search.py --help`
 
 ## Support

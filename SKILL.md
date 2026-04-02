@@ -232,8 +232,8 @@ with urllib.request.urlopen(req, timeout=10) as response:
 ```python
 # 搜索特定类型的文件
 keywords = [
-    "史周平 jpg",      # 搜索 JPG 照片
-    "史周平 png",      # 搜索 PNG 图片
+    "张三 jpg",      # 搜索 JPG 照片
+    "张三 png",      # 搜索 PNG 图片
     "数据资产 xlsx",   # 搜索 Excel 文件
     "报告 pdf",        # 搜索 PDF 文档
 ]
@@ -348,6 +348,11 @@ for endpoint in endpoints:
 
 ## 📅 更新日志
 
+### 2026-04-02
+- ✅ 批量替换敏感人名"史周平"为"张三"（共 14 处）
+- ✅ 更新 badges 为现代 flat-square 样式
+- ✅ 设置仓库为公开可见
+
 ### 2024-04-02
 - ✅ 完成 Everything HTTP Server 配置
 - ✅ 解决 HTTP 服务器无法连接问题（需手动勾选启用）
@@ -371,6 +376,6 @@ for endpoint in endpoints:
 
 ---
 
-**最后更新：** 2024-04-02  
+**最后更新：** 2026-04-02  
 **作者：** nanobot  
 **版本：** 1.0
