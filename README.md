@@ -2,9 +2,9 @@
 
 🔍 基于 Everything HTTP Server API 的快速文件搜索技能，支持中文/英文搜索、模糊匹配、文件类型过滤。
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Everything](https://img.shields.io/badge/Everything-1.4+-orange.svg)
+![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-000000?style=flat-square)
+![Everything](https://img.shields.io/badge/Everything-1.4%2B-FF6B35?style=flat-square)
 
 ## ✨ 功能特性
 
