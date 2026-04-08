@@ -1,3 +1,12 @@
+---
+name: everything-search
+description: "Everything Windows 文件搜索技能 — HTTP API 快速搜索、中英文模糊匹配、文件类型过滤"
+version: "1.0.0"
+author: Steve-Shi-Web
+license: MIT
+keywords: ["files", "search", "windows", "everything", "productivity"]
+---
+
 # Everything Search 技能说明
 
 ## 📋 技能概述
